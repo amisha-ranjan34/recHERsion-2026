@@ -1,0 +1,10 @@
+HERShield AI — 2–3 minute demo script
+
+0:00–0:15 Intro: “HERShield AI is our privacy-first women’s safety prototype for journey check-ins, digital threat awareness, and private incident notes.”
+0:15–0:45 Journey timer: start a check-in and explain that overdue status only appears while the app is open; no alert is sent.
+0:45–1:25 Message checker: paste “URGENT: verify your account now at https://example.invalid and send your OTP.” Show the score and explain each warning signal.
+1:25–1:55 Incident journal: save a fictional note, export JSON, then delete it.
+1:55–2:20 Privacy: click Simulate SOS and show the explicit simulation-only warning.
+2:20–2:40 Close: “Next steps include opt-in contacts, tested notifications, accessibility and security review, and evaluation on a labeled dataset.”
+
+Before recording: use only fictional data; hide personal tabs/notifications; test all pages; follow event video duration rules.
