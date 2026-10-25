@@ -1,0 +1,11 @@
+# Submission checklist
+- [ ] Replace team details in PPT.
+- [ ] Install dependencies and run `streamlit run app.py`.
+- [ ] Run `python -m pytest`.
+- [ ] Create GitHub repository and push all project files.
+- [ ] Deploy using Streamlit Community Cloud and test public URL.
+- [ ] Add genuine screenshots to `assets/screenshots/`.
+- [ ] Add repository and deployed app URLs to README/PPT.
+- [ ] Record demo using `docs/demo_script.txt`.
+- [ ] Check official required video duration and submission format.
+- [ ] Submit repository URL, PPT, and demo video before event deadline.
